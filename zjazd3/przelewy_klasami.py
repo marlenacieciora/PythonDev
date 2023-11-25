@@ -21,4 +21,8 @@ def function(self):
 
 andrzej = Crocodile("Andrzej","ZOO in Wroclaw")
 blazej = Crocodile("Blazej","Amazon forest")
-b
+
+
+@staticmethod
+def get_population_count():
+    pass
